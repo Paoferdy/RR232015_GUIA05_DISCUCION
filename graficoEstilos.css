@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: #1b6a95;
+    color: white;
+    padding: 1em 0;
+}
+
+.controls {
+    margin: 2em 0;
+}
+
+.radio-group {
+    margin-bottom: 2em;
+}
+
+.color-select {
+    margin-bottom: 2em;
+}
+
+.orientation {
+    margin-bottom: 2em;
+}
+
+.chart-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
